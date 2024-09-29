@@ -1,4 +1,4 @@
-# flask-restful-python
+# flask-restful-python-example
 [Documentation Flask-RESTful](https://flask-restful.readthedocs.io/en/latest/)
 
 ## Installation
