@@ -1,6 +1,11 @@
 # flask-restful-python
 [Documentation Flask-RESTful](https://flask-restful.readthedocs.io/en/latest/)
 
+## Installation
+``` bash
+pip install flask-restful
+```
+
 ## Example usage
 ``` bash
 $ python api.py
